@@ -1,0 +1,22 @@
+{
+  "name": "freezing-ringtail",
+  "version": "1.0.0",
+  "description": "Simple Bookstore App to learn about SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameliavoncat/freezing-ringtail.git"
+  },
+  "keywords": [
+    "sql"
+  ],
+  "author": "freezing-ringtail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameliavoncat/freezing-ringtail/issues"
+  },
+  "homepage": "https://github.com/ameliavoncat/freezing-ringtail#readme"
+}
